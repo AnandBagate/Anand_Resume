@@ -22,5 +22,5 @@ Data Engineer with 4.5 years of experience in Azure Data Engineering, Databricks
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anandbagate/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anandbagate/)
 - GitHub: [AnandBagate](https://github.com/AnandBagate)
